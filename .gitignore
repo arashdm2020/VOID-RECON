@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.vercel/
+.env*
+!.env.example
+*.tsbuildinfo
+coverage/
+dashboard-check.png
+dashboard-mobile-check.png

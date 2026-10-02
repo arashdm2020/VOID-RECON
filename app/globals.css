@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root { color-scheme: dark; }
+body {
+  margin: 0;
+  background: #080b0e;
+  color: #d8dfe6;
+  font-family: "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+}
+::selection { background: #f8717140; color: white; }
